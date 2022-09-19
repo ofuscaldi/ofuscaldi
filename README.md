@@ -16,4 +16,4 @@
 
 ## Quero aprender
 
-- Python :python:
+- Python
